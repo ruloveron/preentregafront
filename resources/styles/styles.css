@@ -1,0 +1,174 @@
+/*cabecera*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+body{
+    display: block;
+    
+}
+
+#coheteLogo{
+    width: 10%;
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
+
+.navegacion{
+    background-color: darkred;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacion img{
+    padding: 20px 5%;
+    
+}
+
+.titular{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    text-decoration: none;
+    color: #000000;
+}
+
+.listNav{
+    display: flex;
+    flex: none;
+    align-items: center;
+    list-style: none;
+    position: relative;
+    right: 10%;
+}
+
+.listItem{
+    padding-right: 30px;
+}
+
+.iniciarSesion{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 5px;
+}
+
+.linkNav{
+    padding: 0.5rem 1rem;
+}
+
+.listItem a{
+    text-decoration: none;
+}
+
+/*seccion principal*/
+
+.main{
+    display: block;
+
+}
+
+.seccionPrincipal{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: url(https://cdn.pixabay.com/photo/2017/08/24/03/41/starry-sky-2675322_1280.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+section h1{
+    color: antiquewhite;
+    font-size: 10%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000;
+}
+
+hr{
+    border: 20px solid #8B0000;
+    margin: 0 auto;
+}
+
+.seccionCatalogo{
+    height: 250vh;
+    background-color: #000000;
+    display: flex;
+    text-align: justify;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.seccionCatalogo h2{
+    color: aliceblue;
+}
+
+#containerCatalogo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.cartas{
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  
+}
+
+.contenido{
+    display: flex;
+    color: aliceblue;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 5px solid darkred;
+    border-radius: 50px;
+    margin: 10px;
+    height: 80%;
+    padding: 50px;
+}
+
+.contenido img{
+    width: 10vw;
+    
+}
+
+.contenido h3{
+    padding-top: 20px;
+}
+
+.contenido p{
+    width: 30vw;
+    padding: 10%;
+    
+}
+
+/*seccion final*/
+
+.footer{
+    background-color: #8B0000;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.listItem a, .listItem, .titular{
+    color: #ffffff;
+}
