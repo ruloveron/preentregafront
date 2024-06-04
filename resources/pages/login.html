@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/styles.css">
+    <title>Iniciar Sesión</title>
+</head>
+<body class="bodyLogin">
+    <header>
+        <nav class="navegacionLogin">
+            <a class="titular" href="../../index.html">
+                <img id="coheteLogo" src="../images/pngwing.com.png" alt="cohete">
+                <span>CAC-Cosmos</span>
+            </a>
+        </nav>
+    </header>
+    <main>
+        <div>
+            <h2>Login</h2>
+            <form id="formLogin" action method="get">
+                <div >
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required>
+                </div>
+                <div>
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit">Login</button>
+                <a href="register.html">Register</a>
+            </form>
+            <p id="errorMensaje" class="error"></p>
+        </div>
+        <script type="module" src="../js/login.js"></script>
+    </main>
+</body>
+</html>

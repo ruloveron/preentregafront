@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"Planetas",
+        "descripcion":"Un planeta es un objeto astronómico que orbita una estrella y que es lo suficientemente masivo como para ser redondeado por su propia gravedad, pero no lo suficientemente masivo como para causar fusión termonuclear, y que ha despejado su región vecina de planetesimales.",
+        "imagenUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9RQNOsZfgCekBxU3Pk0h7KSEruh4w5ykmBc3kQ1PRXA&s"
+    },
+    {
+        "nombre":"Satelites Naturales",
+        "descripcion":"Un satélite natural es un cuerpo celeste que orbita alrededor de un planeta. Generalmente el satélite es más pequeño y acompaña al planeta en su órbita alrededor de su estrella madre. A diferencia de los fragmentos que orbitan formando un anillo, es el único cuerpo en su órbita. El término satélite natural se contrapone al de satélite artificial, siendo este último un objeto que gira en torno a la Tierra, la Luna o algunos planetas y que ha sido fabricado por el ser humano.",
+        "imagenUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYqrCYVQCzAtD8Eni5hiZeIYQFs389PlWqMtXdKTHloQ&s"
+    },
+    {
+        "nombre": "Estrella",
+        "descripcion":"Una estrella es un objeto astronómico luminoso con forma de esferoide, que mantiene debido al equilibrio hidrostático alcanzado por su propia gravedad. La estrella más cercana a la Tierra es el Sol.",
+        "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZB5h8lvfKTgB_D39RBynAaLcwtv2jDLiMx5jniHXxFER-a7p37OsAhbocsi_IKjnKQlA&usqp=CAU"
+    },
+    {
+        "nombre":"Galaxias",
+        "descripcion":"Una galaxia es un conjunto de estrellas, nubes de gas, planetas, polvo cósmico, materia oscura y energía unidas gravitatoriamente en una estructura más o menos definida.",
+        "imagenUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60FC66Iy__3JbrdsWovRclo4uCSTfsL2uRQ&s"
+    },
+    {
+        "nombre":"Agujeros Negros",
+        "descripcion":"Un agujero negro es una región finita del espacio descrita en las ecuaciones de Einstein, cuyo interior posee una concentración de masa lo suficientemente elevada como para generar un campo gravitatorio tal que, salvo por un determinado tipo de procesos cuánticos, ninguna partícula ni radiación —ni siquiera la luz— pueden escapar de él (en 2021 se observaron reflejos de luz en la parte más lejana de un agujero negro). Los agujeros negros pueden ser capaces de emitir un tipo de radiación, la radiación de Hawking, conjeturada por Stephen Hawking en la década de 1970. La radiación emitida por agujeros negros como Cygnus X-1 no procede del propio agujero negro sino de su disco de acreción.",
+        "imagenUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwyy8NUsFLWX5GEcy43dgq6dDgE8Z1wOqkyfrSIha65vhotgcm3K3431izkHt79UoQvg&usqp=CAU"
+    },
+    {
+        "nombre":"Cuasáres",
+        "descripcion":"Un cuásar o quasar se define como, bien una galaxia recién nacida o bien aquella fuente de energía que se presenta en el agujero negro del centro de dichas galaxias recién nacidas, caracterizados por ser una fuente astronómica de energía electromagnética, que incluye radiofrecuencias y luz visible",
+        "imagenUrl":"https://fotografias.lasexta.com/clipping/cmsimages01/2020/06/27/8BB47772-E796-4907-87D7-ED6DB23D55A0/69.jpg?crop=4:3,smart&width=1200&height=900&optimize=low&format=webply"
+    }
+]
